@@ -1,0 +1,10 @@
+.middle-section {
+  background-size: cover;
+  background-position: center;
+  margin: 20px;
+  height: 600px;
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
+  flex-wrap: wrap
+}

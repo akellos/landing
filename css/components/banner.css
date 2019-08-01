@@ -1,0 +1,26 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 140px 0;
+  height: 350px;
+  position: relative;
+}
+
+.banner h1 {
+  color: white;
+  font-family: 'Karla', sans-serif;
+  font-size: 40px;
+  }
+
+.banner p {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  transition: opacity 0.5s ease;
+  opacity: 0.7;
+
+}
+
+.padding-left {
+  padding-left: 20px;
+}
